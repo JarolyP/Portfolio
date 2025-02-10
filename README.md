@@ -5,5 +5,7 @@ Este portafolio es un sitio web optimizado y rápido, diseñado para mostrar mis
 🛠 Tecnologías utilizadas
 
 Astro ⚡ – Framework para sitios estáticos ultra rápidos.
+
 HTML & CSS 🎨 – Estructura y estilos base.
+
 TailwindCSS 🌈 – Framework de utilidades CSS para un diseño moderno.
